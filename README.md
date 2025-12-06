@@ -4,7 +4,7 @@ A comprehensive Power BI–based analytical dashboard designed to deliver action
 
 ## 1. Project Overview 
 
-The Riders Performance Analysis Dashboard is an interactive reporting solution developed to analyze key operational metrics of a ride-hailing platform.
+The **Riders Performance Analysis Dashboard** is an interactive reporting solution developed to analyze key operational metrics of a ride-hailing platform.
 It covers the full lifecycle of ride operations, including offers, bookings, cancellations, completed rides, drivers, and service types.
 
 This dashboard helps business stakeholders understand:
