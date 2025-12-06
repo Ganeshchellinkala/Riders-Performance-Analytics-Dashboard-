@@ -20,7 +20,7 @@ Service-type performance (TAXI vs PHV)
 Seasonal and monthly ride trends
 
 ## 2. Purpose & Objectives
-Business Problem
+**Business Problem**
 
 Ride-hailing platforms generate millions of ride offers and bookings. Without analytics, it becomes difficult to answer important performance questions such as:
 
@@ -34,7 +34,7 @@ How efficient is the offer-to-booking conversion?
 
 How do demand patterns change across months and countries?
 
-## 3. Goal of the Dashboard
+**Goal of the Dashboard**
 
 To build a visual, easy-to-understand analytics tool that:
 
@@ -48,7 +48,7 @@ Supports strategy and operational improvement
 
 Provides insights into ride trends, peak seasons, and conversion efficiency
 
-## 4. Tech Stack / Tools Used
+## 3. Tech Stack / Tools Used
 
 📊 Power BI – Main dashboard development
 
@@ -60,11 +60,11 @@ Provides insights into ride trends, peak seasons, and conversion efficiency
 
 🧮 DAX Measures – KPIs (Bookings, Rides, Cancellations, Conversion Rate)
 
-## 5. Data Source & Table Structure
+## 4. Data Source & Table Structure
 
 Source: Private Project (Rideit_drivers & Rideit_drivers_activity)
 
-Dataset Contains:
+**Dataset Contains:**
 
 Driver details
 
@@ -82,7 +82,7 @@ Country codes (DE, ES)
 
 Month-wise ride activity
 
-## 6. Dashboard Features & Highlights
+## 5. Dashboard Features & Highlights
 
 Key Performance Indicators (KPIs)
 
@@ -100,7 +100,7 @@ Booking Conversion Rate (Bookings ÷ Offers)
 
 Ride Completion Rate
 
-## 7. Interactive Filters
+**Interactive Filters**
 
 Country (DE / ES)
 
@@ -112,7 +112,7 @@ Ride Status
 
 Booking Status
 
-## 8. Dashboard Walkthrough
+## 6. Dashboard Walkthrough
 1.Bookings by Country
 
 A bar chart showing booking volume across countries.
@@ -154,7 +154,7 @@ Country-wise service contribution
 
 Offer-to-booking efficiency
 
-## 9. Business Impact & Insights
+## 7. Business Impact & Insights
 Operational Insights:
 
 Identifies high-demand regions
